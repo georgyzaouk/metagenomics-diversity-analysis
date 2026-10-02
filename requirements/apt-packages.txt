@@ -1,0 +1,8 @@
+sortmerna
+fastqc
+sickle
+seqtk
+ncbi-blast+
+mothur
+python3-venv
+vsearch
