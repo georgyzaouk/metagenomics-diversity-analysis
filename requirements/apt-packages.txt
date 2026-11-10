@@ -1,3 +1,4 @@
+
 sortmerna
 fastqc
 sickle
@@ -6,3 +7,12 @@ ncbi-blast+
 mothur
 python3-venv
 vsearch
+
+hmmer
+mafft
+iqtree
+prodigal
+seqkit
+
+git
+build-essential
